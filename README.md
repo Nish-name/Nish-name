@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-nishtha soni-red)](https://youtube.com/channel/UCRcixhxn7eTPMIq9eBYEOlQ)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red)](https://youtube.com/channel/UCRcixhxn7eTPMIq9eBYEOlQ)
 [![Linkedin Badge](https://img.shields.io/badge/e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishtha-soni-a310bb207/)](https://www.linkedin.com/in/nishtha-soni-a310bb207//)
-[![Website Badge](https://img.shields.io/badge/WebSite-nishtha-green)](https://www.nishtha)
+[![Website Badge](https://img.shields.io/badge/WebSite-Nishtha-green)](https://www.Nishtha)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-nishtha)](https://stackoverflow.com/users/3687251/nistha-)
 
 I'm
